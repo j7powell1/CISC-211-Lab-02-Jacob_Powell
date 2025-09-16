@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/vitobica2/Documents/GitHub/CISC-211-Lab-02/Lab-02-starter/firmware/src/main.c</file>
+            <file>file:/C:/Users/jacob/OneDrive/Documents/GitHub/CISC-211-Lab-02-Jacob_Powell/Lab-02-starter/firmware/src/main.c</file>
+            <file>file:/C:/Users/jacob/OneDrive/Documents/GitHub/CISC-211-Lab-02-Jacob_Powell/Lab-02-starter/firmware/src/config/sam_e51_cnano/peripheral/clock/plib_clock.c</file>
+            <file>file:/C:/Users/jacob/OneDrive/Documents/GitHub/CISC-211-Lab-02-Jacob_Powell/Lab-02-starter/firmware/src/asmFunc.s</file>
+            <file>file:/C:/Users/jacob/OneDrive/Documents/GitHub/CISC-211-Lab-02-Jacob_Powell/Lab-02-starter/firmware/Lab-02-starter.X/Makefile</file>
         </group>
     </open-files>
 </project-private>
